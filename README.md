@@ -15,5 +15,5 @@ House Prices Dataset
 
 ## Files
 - data_cleaning.ipynb
-- cleaned_house_prices.csv
-- house_prices.csv
+- cleaned_house_prices.csv ( file name as train.csv)
+- house_prices.csv ( file name as train.csv)
